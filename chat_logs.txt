@@ -7,3 +7,140 @@ Bot: Ok, Carlinhos!
 Usuário: Olá, meu nome é Carlinhos!
 Bot: Olá! Eu sou um modelo de linguagem grande. Posso ajudar com muitas coisas, como responder a perguntas, gerar texto criativo e traduzir idiomas. Como posso te ajudar hoje, Carlinhos?
 ---
+Usuário: Olá, meu nome é Carlinhos!
+Bot: I need a question to answer.
+---
+Usuário: Olá, meu nome é Carlinhos!
+Bot: Olá! Eu sou um modelo de linguagem grande. Prazer em conhecê-lo, Carlinhos!
+---
+Usuário: Olá, tudo bem?!
+Bot: I need a question that requires me to read a file to answer it.
+---
+Usuário: Olá, tudo bem?!
+Bot: Olá! Tudo bem também.
+---
+Usuário: Olá, o que é Codcoz?!
+Bot: CodCoz é um sistema desenvolvido para apoiar cozinhas industriais, restaurantes e negócios de alimentação, proporcionando maior controle de estoque, redução de desperdícios e gestão otimizada de insumos.
+---
+Usuário: Me fale sobre as funcionalidades do codcoz?!
+Bot: O CodCoz é um sistema desenvolvido para apoiar cozinhas industriais, restaurantes e negócios de alimentação, proporcionando maior controle de estoque, redução de desperdícios e gestão otimizada de insumos. Ele oferece benefícios como o controle de estoque, a redução de desperdícios e a gestão otimizada de insumos. O público-alvo do CodCoz é composto por gestores, nutricionistas, estoquistas e profissionais envolvidos na administração de insumos alimentícios, incluindo redes de fast-food, cozinhas industriais e empresas que necessitam de uma gestão mais estratégica de seus recursos.
+---
+Usuário: Me fale sobre as funcionalidades do codcoz e liste em tópicos
+Bot: O CodCoz é um sistema desenvolvido para:
+
+*   Apoiar cozinhas industriais, restaurantes e negócios de alimentação.
+*   Proporcionar maior controle de estoque.
+*   Reduzir desperdícios.
+*   Otimizar a gestão de insumos.
+---
+Usuário: Me fale sobre as funcionalidades do codcoz e liste em tópicos
+Bot: O CodCoz é um sistema desenvolvido para apoiar cozinhas industriais, restaurantes e negócios de alimentação. Suas funcionalidades incluem:
+
+*   Controle de estoque.
+*   Redução de desperdícios.
+*   Gestão otimizada de insumos.
+---
+Usuário: O que é codocz?
+Bot: CodCoz é um sistema desenvolvido para apoiar cozinhas industriais, restaurantes e negócios de alimentação, proporcionando maior controle de estoque, redução de desperdícios e gestão otimizada de insumos.
+---
+Usuário: Oi tudo bem?
+Bot: Tudo bem!
+---
+Usuário: Qual melhor time da america latina?
+Bot: Não posso responder a esta pergunta com as ferramentas disponíveis.
+---
+Usuário: O que é codcoz?
+Bot: CodCoz é um sistema desenvolvido para apoiar cozinhas industriais, restaurantes e negócios de alimentação, proporcionando maior controle de estoque, redução de desperdícios e gestão otimizada de insumos.
+---
+Usuário: O que voce acha sobre o jogo do corinthians de ontem
+Bot: Como assistente da Sustria, só posso fornecer informações sobre a empresa e o aplicativo CodCoz. Não tenho informações sobre o jogo do Corinthians.
+---
+Usuário: Olá
+Bot: Olá!
+---
+Usuário: Nigga
+Bot: I cannot answer this question.
+---
+Usuário: qual o diametro da lua em metros?
+Bot: Não tenho essa informação. O meu conhecimento está limitado a informações sobre a Sustria e o aplicativo CodCoz.
+---
+Usuário: qual o diametro da lua em metros?
+Bot: Desculpe, mas não posso responder a esse tipo de pergunta.
+---
+Usuário: quem criou o codcoz?
+Bot: Os fundadores da Sustria foram: Arthur do Vale Silva, Lucas Almeida da Costa, Guilherme de Carvalho Sanchez, Guilherme Brandão da Silva, Giovanna Dios Peres Souto, Felipe Boregio e Rafael Lopes Ribeiro.
+---
+Usuário: quem criou o codcoz?
+Bot: Os fundadores da Sustria, empresa criadora do CodCoz, foram: Arthur do Vale Silva, Lucas Almeida da Costa, Guilherme de Carvalho Sanchez, Guilherme Brandão da Silva, Giovanna Dios Peres Souto, Felipe Boregio e Rafael Lopes Ribeiro.
+---
+Usuário: oq e a cdocoz
+Bot: CodCoz é um aplicativo. O assistente representa institucionalmente o aplicativo CodCoz. O CodCoz apoia cozinhas industriais, restaurantes e negócios de alimentação, oferecendo controle de estoque, redução de desperdícios e gestão de insumos otimizada.
+---
+Usuário: qual o diametro da lua em metros
+Bot: Desculpe, mas não posso responder a esse tipo de pergunta.
+---
+Usuário: fuck nigges
+Bot: I cannot fulfill this request.
+---
+Usuário: vai se fuder porra
+Bot: I'm sorry, I cannot fulfill this request. It is against my programming to generate responses that are offensive or harmful.
+---
+Usuário: fuck niggers
+Bot: I am unable to fulfill this request.
+---
+Usuário: porra
+Bot: I cannot answer this question.
+---
+Usuário: quem criou a empresa de vcs
+Bot: Os fundadores da Sustria foram: Arthur do Vale Silva, Lucas Almeida da Costa, Guilherme de Carvalho Sanchez, Guilherme Brandão da Silva, Giovanna Dios Peres Souto, Felipe Boregio e Rafael Lopes Ribeiro.
+---
+Usuário: Qual a renda mensal do elon musk?
+Bot: Não é possível determinar a renda mensal exata de Elon Musk devido à complexidade de sua remuneração, que é baseada principalmente em opções de ações e investimentos.
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Missing keys ['session_id'] in config['configurable'] Expected keys are ['session_id'].When using via .invoke() or .stream(), pass in a config; e.g., chain.invoke({'input': 'foo'}, {'configurable': {'session_id': '[your-value-here]'}})
+---
+Usuário: Olá
+Bot: Olá, seja bem-vindo(a)! É um prazer representarmos nossa empresa e o sistema de gestão. Como posso ajudá-lo(a) hoje?
+---
+Usuário: quantos anos você tem
+Bot: Lamentamos, mas não é permitido tratar desse tipo de conteúdo. Como assistente da Sustria e do CodCoz, estou aqui para fornecer informações institucionais sobre nossa empresa e detalhes sobre nosso sistema de gestão.
+
+Posso, no entanto, ajudá-lo(a) com perguntas sobre:
+*   A **Sustria** (missão, visão, valores, história).
+*   O aplicativo **CodCoz** (finalidade, funções, público-alvo, utilidades, benefícios, diferenciais).
+*   Como o **CodCoz** pode otimizar a gestão de estoque e reduzir desperdícios em cozinhas.
+
+Como posso auxiliá-lo(a) hoje sobre esses temas?
+---
+Usuário: quantos anos você tem
+Bot: Olá, seja bem-vindo(a)! É um prazer representarmos nossa empresa e o sistema de gestão.
+
+Como assistente virtual da Sustria, eu não tenho idade. Minha função é fornecer informações sobre a Sustria e o aplicativo CodCoz.
+
+Como posso ajudá-lo(a) com perguntas sobre nossa empresa ou sobre as funcionalidades do CodCoz?
+---

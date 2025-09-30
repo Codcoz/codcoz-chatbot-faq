@@ -1,5 +1,5 @@
 from flask import Blueprint, request, jsonify
-from .controllers import process_message
+from .main import process_message
 
 chatbot_bp = Blueprint("chatbot", __name__)
 
