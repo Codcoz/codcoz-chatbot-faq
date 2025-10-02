@@ -144,3 +144,115 @@ Como assistente virtual da Sustria, eu não tenho idade. Minha função é forne
 
 Como posso ajudá-lo(a) com perguntas sobre nossa empresa ou sobre as funcionalidades do CodCoz?
 ---
+Usuário: O que é o codcoz
+Bot: Olá, seja bem-vindo(a)! É um prazer representarmos nossa empresa e o sistema de gestão. Como posso ajudá-lo(a) hoje?
+
+---
+
+### O que é o CodCoz?
+
+O **CodCoz** é um aplicativo de gestão desenvolvido pela *Sustria* com o objetivo principal de otimizar a administração de cozinhas industriais e restaurantes. Ele foi criado para ser uma ferramenta estratégica que garante eficiência, sustentabilidade e redução de custos operacionais.
+
+#### Principais Características e Finalidade:
+
+*   **Controle de Estoque:** Oferece um sistema robusto para o controle detalhado de inventário, monitorando entradas, saídas e movimentações de insumos.
+*   **Gestão Otimizada de Insumos:** Permite uma administração inteligente dos ingredientes, evitando excessos e faltas, e garantindo que os produtos sejam utilizados antes de seu vencimento.
+*   **Redução de Desperdícios:** Através da organização e do monitoramento preciso, o CodCoz minimiza significativamente o desperdício de alimentos e outros materiais, contribuindo para a sustentabilidade e a economia.
+*   **Relatórios Estratégicos:** Gera dados e análises que auxiliam na tomada de decisões gerenciais, identificando gargalos e oportunidades de melhoria.
+*   **Automação de Processos:** Simplifica tarefas rotineiras, liberando tempo para que as equipes se concentrem em atividades mais estratégicas.
+
+Em suma, o CodCoz é a solução ideal para empresas do setor alimentício que buscam uma gestão mais eficiente, transparente e sustentável de seus recursos.
+
+Agradecemos o seu contato. Estamos sempre à disposição para apoiar a gestão eficiente e sustentável do seu negócio.
+---
+Usuário: O que é o codcoz
+Bot: Olá, seja bem-vindo(a)! É um prazer representarmos nossa empresa e o sistema de gestão. Como posso ajudá-lo(a) hoje?
+
+---
+
+### O que é o CodCoz?
+
+O **CodCoz** é o aplicativo desenvolvido pela **Sustria**, projetado para ser uma solução inovadora e essencial na gestão de cozinhas industriais e restaurantes. Ele se dedica a otimizar processos e promover a sustentabilidade no setor alimentício.
+
+#### **Finalidade Principal**
+A principal finalidade do CodCoz é **resolver problemas de desperdício e ineficiência na gestão de estoques e insumos** em ambientes de produção de alimentos. Nosso objetivo é transformar a maneira como essas operações são gerenciadas, tornando-as mais eficientes, econômicas e ambientalmente responsáveis.
+
+#### **Funcionalidades Essenciais**
+O sistema CodCoz oferece um conjunto robusto de funcionalidades, incluindo:
+*   **Controle de Estoque Inteligente:** Monitoramento preciso e em tempo real de todos os itens em estoque, desde a entrada até a saída.
+*   **Gestão Otimizada de Insumos:** Ferramentas para planejar compras, prever demandas e evitar excessos ou faltas de produtos.
+*   **Redução de Desperdícios:** Identificação de padrões de consumo, sugestão de uso de produtos próximos ao vencimento e minimização de perdas.
+*   **Relatórios Estratégicos:** Geração de dados e análises que fornecem insights valiosos para a tomada de decisões gerenciais e operacionais.
+*   **Automação de Processos:** Simplificação de tarefas rotineiras, liberando tempo para a equipe focar em atividades de maior valor.
+
+#### **Público-Alvo e Benefícios**
+O CodCoz atende a um amplo espectro de negócios, desde **pequenas cozinhas e restaurantes até grandes indústrias alimentícias**. Seus benefícios incluem:
+*   **Economia de Custos:** Redução significativa de desperdícios e otimização de compras.
+*   **Eficiência Operacional:** Processos mais ágeis e organizados.
+*   **Sustentabilidade:** Contribuição para um consumo mais consciente e redução do impacto ambiental.
+*   **Melhor Tomada de Decisão:** Informações claras e precisas para um planejamento estratégico eficaz.
+
+Em resumo, o CodCoz é a ferramenta estratégica para qualquer negócio do setor alimentício que busca excelência na gestão, sustentabilidade e rentabilidade.
+
+---
+Agradecemos o seu contato. Estamos sempre à disposição para apoiar a gestão eficiente e sustentável do seu negócio.
+---
+Usuário: O que é o codcoz
+Bot: Olá, seja bem-vindo(a)! É um prazer representarmos nossa empresa e o sistema de gestão. Como posso ajudá-lo(a) hoje?
+
+---
+
+### O que é o CodCoz?
+
+O **CodCoz** é o aplicativo desenvolvido pela **Sustria**, projetado para ser uma solução inovadora e essencial na gestão de cozinhas industriais e restaurantes. Ele se dedica a otimizar processos e promover a sustentabilidade no setor alimentício.
+
+#### **Finalidade Principal**
+A principal finalidade do CodCoz é **resolver problemas de desperdício e ineficiência na gestão de estoques e insumos** em ambientes de produção de alimentos. Nosso objetivo é transformar a maneira como essas operações são gerenciadas, tornando-as mais eficientes, econômicas e ambientalmente responsáveis.
+
+#### **Funcionalidades Essenciais**
+O sistema CodCoz oferece um conjunto robusto de funcionalidades, incluindo:
+*   **Controle de Estoque Inteligente:** Monitoramento preciso e em tempo real de todos os itens em estoque, desde a entrada até a saída.
+*   **Gestão Otimizada de Insumos:** Ferramentas para planejar compras, prever demandas e evitar excessos ou faltas de produtos.
+*   **Redução de Desperdícios:** Identificação de padrões de consumo, sugestão de uso de produtos próximos ao vencimento e minimização de perdas.
+*   **Relatórios Estratégicos:** Geração de dados e análises que fornecem insights valiosos para a tomada de decisões gerenciais e operacionais.
+*   **Automação de Processos:** Simplificação de tarefas rotineiras, liberando tempo para a equipe focar em atividades de maior valor.
+
+#### **Público-Alvo e Benefícios**
+O CodCoz atende a um amplo espectro de negócios, desde **pequenas cozinhas e restaurantes até grandes indústrias alimentícias**. Seus benefícios incluem:
+*   **Economia de Custos:** Redução significativa de desperdícios e otimização de compras.
+*   **Eficiência Operacional:** Processos mais ágeis e organizados.
+*   **Sustentabilidade:** Contribuição para um consumo mais consciente e redução do impacto ambiental.
+*   **Melhor Tomada de Decisão:** Informações claras e precisas para um planejamento estratégico eficaz.
+
+Em resumo, o CodCoz é a ferramenta estratégica para qualquer negócio do setor alimentício que busca excelência na gestão, sustentabilidade e rentabilidade.
+
+---
+Agradecemos o seu contato. Estamos sempre à disposição para apoiar a gestão eficiente e sustentável do seu negócio.
+---
+Usuário: O que é o codcoz
+Bot: Olá, seja bem-vindo(a)! É um prazer representarmos nossa empresa e o sistema de gestão. Como posso ajudá-lo(a) hoje?
+
+---
+
+O **CodCoz** é um aplicativo de gestão desenvolvido pela Sustria com o objetivo principal de otimizar processos em cozinhas industriais, restaurantes e outros estabelecimentos do setor alimentício.
+
+### **O que é o CodCoz?**
+
+O CodCoz é uma solução tecnológica abrangente que visa aprimorar a eficiência operacional e a sustentabilidade de negócios que lidam com a produção e o preparo de alimentos. Ele foi concebido para endereçar desafios comuns do setor, como o desperdício de insumos, a falta de controle de estoque e a dificuldade na gestão de custos.
+
+### **Principais Finalidades e Funções:**
+
+*   **Controle de Estoque:** Gerenciamento preciso e em tempo real de todos os insumos e produtos.
+*   **Gestão Otimizada de Insumos:** Auxilia na compra inteligente, no uso eficiente dos ingredientes e na prevenção de perdas por validade ou má armazenagem.
+*   **Redução de Desperdícios:** Através de ferramentas de monitoramento e análise, o sistema identifica pontos de desperdício e sugere ações corretivas.
+*   **Automação de Processos:** Simplifica tarefas repetitivas, liberando a equipe para focar em atividades de maior valor.
+*   **Relatórios Estratégicos:** Fornece dados e análises que suportam a tomada de decisões estratégicas, melhorando a rentabilidade e a sustentabilidade do negócio.
+
+### **Público-Alvo:**
+
+O CodCoz atende desde pequenas cozinhas e restaurantes até grandes indústrias alimentícias, garantindo flexibilidade e uma interface intuitiva adaptada a qualquer porte de empresa que busque uma gestão mais eficiente e sustentável.
+
+Em essência, o CodCoz é a ferramenta ideal para negócios que desejam transformar sua gestão de cozinha, tornando-a mais organizada, econômica e ecologicamente responsável.
+
+Agradecemos o seu contato. Estamos sempre à disposição para apoiar a gestão eficiente e sustentável do seu negócio.
+---

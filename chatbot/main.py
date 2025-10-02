@@ -153,9 +153,9 @@ chain = RunnableWithMessageHistory(
 )
  
 
-def generate_bot_reply(user_message: str) -> str:
+def generate_bot_reply(user_message: str, id:int) -> str:
     try:
-        answer = chain.invoke({"input": user_message},             config={"configurable": {"session_id": "PRECISA_MAS_NÃO_IMPORTA"}} )
+        answer = chain.invoke({"input": user_message},             config={"configurable": {"session_id": id}} )
 
         return answer
     except Exception as e:
@@ -165,7 +165,7 @@ def generate_bot_reply(user_message: str) -> str:
 def validate_judge(bot_response_text: str): # Alterado para receber a resposta do bot
 ##Juiz
     try:
-        llm_juiz = ChatGoogleGenerativeAI(model="gemini-1.5-flash-latest", google_api_key=api_key)
+        llm_juiz = ChatGoogleGenerativeAI(model="gemini-2.5-flash", google_api_key=api_key)
 
         prompt_juiz_template = """Você é um juiz de IA. Avalie se a seguinte afirmação é correta
     (SIM ou NAO) e justifique: "{afirmacao}"."""
@@ -190,12 +190,12 @@ def validate_judge(bot_response_text: str): # Alterado para receber a resposta d
         return "Ocorreu um erro interno ao processar sua pergunta."
 
 
-def save_log(user_message: str, bot_reply: str):
-    with open("chat_logs.txt", "a", encoding="utf-8") as f:
+def save_log(user_message: str, bot_reply: str, id:int):
+    with open(f"chat_logs_{id}.txt", "a", encoding="utf-8") as f:
         f.write(f"Usuário: {user_message}\nBot: {bot_reply}\n---\n")
 
-def process_message(user_message: str) -> str:
-    bot_reply = generate_bot_reply(user_message)
+def process_message(user_message: str, id:int) -> str:
+    bot_reply = generate_bot_reply(user_message, id)
 
     if isinstance(bot_reply, dict) and 'output' in bot_reply:
         bot_reply_text = bot_reply['output']
@@ -205,7 +205,7 @@ def process_message(user_message: str) -> str:
 
     if validate_judge(bot_reply_text):
         # Se for válida, salve o log e retorne o texto
-        save_log(user_message, bot_reply_text)
+        save_log(user_message, bot_reply_text,id)
         return bot_reply_text
     else:
         # Se não for válida, retorne a mensagem de erro do juiz
