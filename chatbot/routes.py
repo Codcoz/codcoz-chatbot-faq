@@ -1,3 +1,4 @@
+from datetime import datetime
 from flask import Blueprint, request, jsonify
 from .main import process_message
 
@@ -13,3 +14,11 @@ def chat(id):
 
     bot_response = process_message(user_message, id)
     return jsonify({"response": bot_response, "session_id":id})
+
+@chatbot_bp.route("/health", methods=["GET"])
+def health_check():
+    return jsonify({
+        "status": "ok",
+        "timestamp": datetime.now().isoformat(),
+        "uptime": "Serviço ativo"
+    })
