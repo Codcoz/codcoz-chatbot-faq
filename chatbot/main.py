@@ -20,11 +20,11 @@ from langchain_core.runnables import (
     RunnablePassthrough,
 )
 from langchain_mongodb.chat_message_histories import MongoDBChatMessageHistory
-
+from pytz import timezone
 from chatbot.faqTool import get_faq_context
 
 load_dotenv()
-TZ = ZoneInfo("America/Sao_Paulo")
+TZ = timezone("America/Sao_Paulo")
 today = datetime.now(TZ).date()
 
 api_key = os.getenv("GEMINI_API_KEY")
