@@ -12,3 +12,4 @@ langchain-google-memorystore-redis
 langchain-google-genai>=0.1.0
 faiss-cpu>=1.8.0
 pypdf
+langchain-mongodb
