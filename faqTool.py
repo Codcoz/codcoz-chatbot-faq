@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-PDF_PATH = "./chatbot/FAQ_codcoz_v2.pdf"
+PDF_PATH = "FAQ_codcoz_v2.pdf"
 
 embeddings = GoogleGenerativeAIEmbeddings(
     model="models/text-embedding-004",
